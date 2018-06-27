@@ -10,7 +10,7 @@ Please use it for the service which needs to remove the line break for accurate 
 
 実行にはRubyが必要となります。
 -----
-Ruby is required　to be installed for execution.
+Ruby is required to be installed for execution.
 
 ```ruby
 ruby rembr.rb <input_text_file_name>
