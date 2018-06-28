@@ -3,8 +3,8 @@
 テキストから改行文字を除去してクリップボードに貼り付けます。  
 Google Translate など正確な動作のためには改行を除去する必要のあるサービスのお供にご利用ください。
 
-Remove the new line character from the text and paste it on the clipboard.  
-Please use it for the service which needs to remove the line break for accurate operation, such as Google Translate.
+Remove the new line character from the text and paste the text on the clipboard.  
+Please use this script for the service which needs to remove the line break for accurate operation, such as Google Translate.
 
 
 # 使い方 / how to use  
